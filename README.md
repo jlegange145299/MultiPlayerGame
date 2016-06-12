@@ -1,7 +1,7 @@
 # MultiPlayerGame
 HTML 5 online multi-player game.
 
-# Welcome to the MultiPlayerGame wiki!
+# Welcome to the MultiPlayerGame Summary!
 
 This is a project to create a simple on-line multi player game.
 
